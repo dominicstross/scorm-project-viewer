@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="Ec9dlYjT6T2vp" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>Ch2 OLM Quiz</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="ch2_olm_quiz_organization">
+		<organization identifier="ch2_olm_quiz_organization">
+
+			<title>Ch2 OLM Quiz</title>
+			<item identifier="B9A396D6-42A9-467D-868F-171E2B30658F" identifierref="resource">
+				<title>Ch2 OLM Quiz</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/goodbye.html"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/images/img-03f4ff8c44f15d94b7ecd108a122bc7ce24a7404.png"/>
+<file href="res/data/images/img-12f14306b1f75fa483264d40d32e9eb24a564cc0.png"/>
+<file href="res/data/images/img-16a6e1bfadb8da14f931c5f5cd5f709b8e2408d3.png"/>
+<file href="res/data/images/img-20877747798179778f9e623277f0f482a7127f54.png"/>
+<file href="res/data/images/img-27a39d99c0b7cc21a25cce4aa2e08ee171a02a71.png"/>
+<file href="res/data/images/img-2f142ca92059a45e06ed29bdade517ca27b5600d.png"/>
+<file href="res/data/images/img-5dd842b438d18048e7511db985327e8f5bc792bf.png"/>
+<file href="res/data/images/img-675472e7091453c7edeecc129921625fdbea7bc9.png"/>
+<file href="res/data/images/img-6b8b02a9f633ecd52e4c37a50f378c1d2f57aa59.png"/>
+<file href="res/data/images/img-8495819557040321ca09b389e77f087abd55ce29.png"/>
+<file href="res/data/images/img-a1ae2120124abdb5d863e11e9b4ee0fcdc566e2b.png"/>
+<file href="res/data/images/img-cb2f13c36d933e9a0bcce55b3f2376d809c53223.png"/>
+<file href="res/data/images/img-d1035ee930643e510784bdc50e0fc4343ab3e4b3.png"/>
+<file href="res/data/images/img-d46a6d8d60082788f043d68777febb53f1467783.png"/>
+<file href="res/data/images/img-f3b848a8933ed87c50de7f847153ab7d4216da80.png"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/index.html"/>
+
+		</resource>
+	</resources>
+</manifest>
